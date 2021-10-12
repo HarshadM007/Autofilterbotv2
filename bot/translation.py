@@ -7,7 +7,7 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Auto Filter Bot In CC....😉
 
-Sorry, You Can't Add This in Your Group..!
+Sorry, You Can't Add This Bot in Your Group..!
 
 Made For @Cinema_Compaany..
 Join @CC_Linkz
